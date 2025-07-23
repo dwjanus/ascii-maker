@@ -1,5 +1,3 @@
-# ASCII Maker
-
 <pre>
  █████╗ ███████╗ ██████╗██╗██╗    ███╗   ███╗ █████╗ ██╗  ██╗███████╗██████╗ 
 ██╔══██╗██╔════╝██╔════╝██║██║    ████╗ ████║██╔══██╗██║ ██╔╝██╔════╝██╔══██╗ 
@@ -8,6 +6,8 @@
 ██║  ██║███████║╚██████╗██║██║    ██║ ╚═╝ ██║██║  ██║██║  ██╗███████╗██║  ██║ 
 ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ 
 </pre>
+
+# ASCII Maker
 
 A modern web application that converts images and text into ASCII art. Built with Next.js 15, TypeScript, Shadcn, and Tailwind CSS.
 
